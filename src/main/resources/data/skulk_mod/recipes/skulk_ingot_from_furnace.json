@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "skulk_mod:skulk_ore"
+    },
+    "result": "skulk_mod:skulk_ingot",
+    "experience": 0.4,
+    "cookingtime": 300
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "skulk_mod:skulk_ore"
+    },
+    "result": "skulk_mod:skulk_ingot",
+    "experience": 0.6,
+    "cookingtime": 150
+}
