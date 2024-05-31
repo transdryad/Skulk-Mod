@@ -6,11 +6,16 @@
         "version": "${version}",
         "metadata": {
             "name": "Skulk Mod",
-            "description": "Adds the Skulk DImension to minecraft and lots of new weapons and bosses",
+            "description": "Adds the Skulk Dimension to minecraft and lots of new weapons and bosses",
             "contributors": {
-                "transdryad": "Owner"
+                "transdryad": "Owner & Developer"
             },
-            "contact": {},
+            "contact": {
+							"homepage": "https://modrinth.com/project/skulk-mod",
+							"sources": "https://github.com/transdryad/Skulk-Mod",
+							"issues": "https://github.com/transdryad/Skulk-Mod/issues",
+							"wiki": "https://github.com/transdryad/Skulk-Mod/wiki"
+						},
             "icon": "assets/example_mod/icon.png",
             "license": "MIT"
         },
